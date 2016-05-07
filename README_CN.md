@@ -31,6 +31,8 @@ $ pip install -r requirements.txt
     * 如果你是Windows用户,按照上面第一个步骤来安装的Python,那么请忽略这一步,
     因为已经安装过了; 如果忘记勾选,安装教程见[这里](http://www.tuicool.com/articles/eiM3Er3/)
     * Mac用户,请参照[这个教程](http://blog.csdn.net/fancylovejava/article/details/39140373)
+    * 然后在终端(terminal)里面运行 `pip install xmltodict requests six`;
+
 
 3. 下载[tumblr-crawler](https://github.com/dixudx/tumblr-crawler/archive/master.zip)并解压缩;
 
